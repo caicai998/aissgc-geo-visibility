@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title">
+  <title id="title">AI搜索观察</title>
+  <g id="brackets" fill="#141414"><path d="M76 218.07 A104 104 0 0 1 76 37.93 L91 63.91 A74 74 0 0 0 91 192.09 Z"/><path d="M180 37.93 A104 104 0 0 1 180 218.07 L165 192.09 A74 74 0 0 0 165 63.91 Z"/></g>
+  <circle id="point" cx="128" cy="128" r="32" fill="#B23A2F"/>
+</svg>

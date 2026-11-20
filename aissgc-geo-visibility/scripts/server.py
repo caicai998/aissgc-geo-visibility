@@ -750,5 +750,5 @@ if __name__ == "__main__":
         print(f"报告已生成: {out}（{len(pdf) // 1024} KB）")
         sys.exit(0)
     port = int(os.environ.get("PORT", 8000))
-    print(f"GEO 监测已启动 → http://localhost:{port}  豆包(联网)={'已配置' if ARK_API_KEY else '未配置'}  DeepSeek(官方API)={'已配置' if DEEPSEEK_API_KEY else '未配置'}  画像调研={'开' if RESEARCH_ENABLED else '关'}")
+    print(f"AI搜索观察 · GEO 监测已启动 → http://localhost:{port}  豆包(联网)={'已配置' if ARK_API_KEY else '未配置'}  DeepSeek(官方API)={'已配置' if DEEPSEEK_API_KEY else '未配置'}  画像调研={'开' if RESEARCH_ENABLED else '关'}")
     ThreadingHTTPServer(("0.0.0.0", port), H).serve_forever()

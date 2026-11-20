@@ -1,9 +1,9 @@
 ---
-name: geo-visibility
+name: aissgc-geo-visibility
 description: Check whether a brand appears in AI answers and inspect available citations. Use when monitoring brand visibility using the current agent's available model tools or the bundled Doubao and DeepSeek API application.
 ---
 
-# GEO 品牌可见度监测
+# AI搜索观察 · GEO 品牌可见度监测
 
 本技能由 [AI搜索观察](https://www.aissgc.com/) 站长贝果开发。
 
